@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kırklareli Korsan Taksi | İstanbul Havalimanı, İğneada</title>
+  <link href="https://kirklarelikorsantaksi.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://kirklarelikorsantaksi.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://kirklarelikorsantaksi.github.io/</id>
+  <updated>2026-11-19T17:55:37.709Z</updated>
+  <author><name>Kırklareli Korsan Taksi</name></author>
+  <entry>
+    <title>Kırklareli Korsan Taksi | İstanbul Havalimanı, İğneada</title>
+    <link href="https://kirklarelikorsantaksi.github.io/" rel="alternate" type="text/html"/>
+    <id>https://kirklarelikorsantaksi.github.io/</id>
+    <updated>2026-11-19T17:55:37.709Z</updated>
+    <summary>Kırklareli korsan taksi: İstanbul Havalimanı merkezden 189 km, Lüleburgaz sanayi, Dereköy Sınır Kapısı, İğneada, Kıyıköy ve Dupnisa Mağarası yolu. 7/24.</summary>
+  </entry>
+</feed>
